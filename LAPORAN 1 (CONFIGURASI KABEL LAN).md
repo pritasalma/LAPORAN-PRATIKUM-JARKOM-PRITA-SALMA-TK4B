@@ -1,4 +1,5 @@
-#CONFIGURASI KABEL LAN
+# CONFIGURASI KABEL LAN
+
 Berikut ini adalah alat yang digunakan untuk mengconfigurasi kabel LAN)
 ![image](https://github.com/pritasalma/LAPORAN-PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/dd2889f4-4771-496b-9448-bb785150ea49)
 
