@@ -4,28 +4,31 @@ Langkah - Langkah Pengerjaannya :
 
 
 1. Install 'Wireshark', lalu open dan klik 'wifi'
-   
-![image](https://github.com/pritasalma/LAPORAN-3-WireShark-_Prita-Salma/assets/126141683/dbb09cbe-9857-445e-9f54-2c836827a3f6)
+
+![WhatsApp Image 2024-02-27 at 11 55 25_78a17c18](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/0d84ab34-4611-4b58-aaf8-6bc9b5fdb8e0)
 
 
 2. Berikut ini adalah IP User lain
 
-![WhatsApp Image 2024-02-27 at 11 59 26_a122f4bf](https://github.com/pritasalma/LAPORAN-3-WireShark-_Prita-Salma/assets/126141683/5aaa386b-7f18-4f59-ae11-76ec710ceaa9)
+![WhatsApp Image 2024-02-27 at 11 59 38_eeb64469](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/1f8e327f-2fe5-44dd-97c3-64391e8c8327)
 
 
-3. Masukkan IP Address User lain
+4. Masukkan IP Address User lain
 
-![image](https://github.com/pritasalma/LAPORAN-3-WireShark-_Prita-Salma/assets/126141683/f526094f-7ff4-467f-89ea-d0e7be1df7df)
+![WhatsApp Image 2024-02-27 at 12 00 29_4c86ac71](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/7df0c535-e7fc-4421-bc2e-54d19bcd5976)
 
 
 4. Berikut ini adalah Jumlah Packets dari IP User lain, tunggu beberapa menit IP Address (posisi run) untuk melihat aktifitas yang telah dilakukan user tersebut, dan terkumpulnya jumlah packetsnya
-  
-![image](https://github.com/pritasalma/LAPORAN-3-WireShark-_Prita-Salma/assets/126141683/ab2fcf37-d923-42f4-9ee4-4bbca83b04f7)
 
-5. Klik 'Statistics' untuk melihat lebih details tentang (Packets, Time Span, Bytes, Average Bits, dll)
+![WhatsApp Image 2024-02-27 at 12 08 38_4cfbd1ab](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/0e2c218e-6928-4a45-b6ef-2c2577f46db0)
 
-![image](https://github.com/pritasalma/LAPORAN-3-WireShark-_Prita-Salma/assets/126141683/a94bf1e0-ba01-45cc-9564-81e5c0a94ff8)
-![image](https://github.com/pritasalma/LAPORAN-3-WireShark-_Prita-Salma/assets/126141683/6243d4b1-eb18-4fbd-a0d8-7d811391290d)
+
+6. Klik 'Statistics' untuk melihat lebih details tentang (Packets, Time Span, Bytes, Average Bits, dll)
+
+![image](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/7b5203b6-9f52-4789-8b46-375eee9a29fd)
+
+![image](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/206fe068-8048-481a-a44f-0900ddc84078)
+
 
 
 6. Kemudian lakukan perhitungan untuk menghitung hasil bytes (Throughtput)
@@ -39,12 +42,11 @@ Langkah - Langkah Pengerjaannya :
 
 8. Sesudah melalukan perhitungan, kita dapat mengubah data yang kita punya tadi kedalam bentuk Excel dengan melakukan langkah dibawah ini
 
-![image](https://github.com/pritasalma/LAPORAN-3-WireShark-_Prita-Salma/assets/126141683/bfb8db1d-668c-4e2f-a2bb-e07b50d1e5c2)
-![image](https://github.com/pritasalma/LAPORAN-3-WireShark-_Prita-Salma/assets/126141683/876d4a48-ab49-41ec-8903-2205bc9d4764)
-![image](https://github.com/pritasalma/LAPORAN-3-WireShark-_Prita-Salma/assets/126141683/5ae2000a-21be-4dde-bcaa-35359e19bad9)
-![image](https://github.com/pritasalma/LAPORAN-3-WireShark-_Prita-Salma/assets/126141683/002af96f-5879-4477-9774-0698c0439952)
-![image](https://github.com/pritasalma/LAPORAN-3-WireShark-_Prita-Salma/assets/126141683/ee1cc05e-d2e8-4125-9de9-bdcc1a57934f)
-![image](https://github.com/pritasalma/LAPORAN-3-WireShark-_Prita-Salma/assets/126141683/abd01fe7-e6e0-4fda-80f4-0a39c5d69324)
+![image](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/2ff98083-3bfd-411c-b3f0-2041860baef8)
+![image](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/cc8f46b7-0be2-4b4f-b096-a22e9cbc87f2)
+![image](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/253fe814-b15d-494a-aad1-8301ea6cd680)
+![Screenshot 2024-02-27 125620](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/33998623-deed-4ef8-8f78-15babe07cdeb)
+![Screenshot 2024-02-27 125723](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/6468b6fd-44cd-46d7-ad9f-cf9a8facaa91)
 
 
 9. Rumus Untuk Penghitungan Delay
