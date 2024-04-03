@@ -23,11 +23,17 @@
 
 **-PAPER 1-**
 
-![image](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/ec8e68fd-2959-436c-8868-76ce593fcd4d)
+![WhatsApp Image 2024-04-03 at 22 50 55_076eb264](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/c8b70512-f0d8-4239-93c5-cbf37b9570d1)
 
 **-PAPER 2-**
 
+![image](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/0667f572-b33a-4996-9d0d-973cedf696c3)
+
 **-PAPER 3-**
+
+![image](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/5a542087-5704-4d34-b43e-7536e6208fd6)
+
+
 # KESIMPULAN
 
 ![image](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/68120331-e5cf-4194-8f60-8807f6a61fc2)
