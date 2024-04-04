@@ -5,8 +5,7 @@
 **-PAPER 1-** 
 >>> Sistem Perekam Detak Jantung Berbasis Internet Of Things (IoT) dengan menggunakan Pulse Heart Rate Sensor
 
-![image](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/7070b677-f107-4af2-a44a-d2cd200d006b)
-
+![image](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/e1ce0bec-8c1d-4050-9956-7dd721d28770)
 
 **-PAPER 2-** 
 >>> Utilizing neural networks with CICIDS2018 dataset for detecting brute force attack anomalies in intrusion detection systems
@@ -20,6 +19,8 @@
 ![image](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/b6a7658c-2a06-406b-b540-e5d2c6e54e3b)
 
 # TOPOLOGI
+
+![image](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/8055f870-0150-402f-8d6e-6ace04ea9c53)
 
 **-PAPER 1-**
 
