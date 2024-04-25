@@ -2,6 +2,7 @@
 
 ![image](https://github.com/pritasalma/PRATIKUM-JARKOM-PRITA-SALMA-TK4B/assets/126141683/b6091010-e944-43a6-b333-2846bb752f47)
 
+    Berikut ini Filenya >>> 
 
 Berikut ini adalah langkah-langkah pengerjaanya
 
